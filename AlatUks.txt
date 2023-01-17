@@ -1,0 +1,94 @@
+B01
+Tandu
+5
+Baik
+
+B02
+Selimut
+5
+Baik
+
+B03
+kursi roda
+5
+Baik
+
+B04
+Timbangan
+5
+Baik
+
+B05
+Bantal
+5
+Baik
+
+B06
+Tempat sampah
+5
+Baik
+
+B07
+Stetoscope dewasa
+5
+Baik
+
+B08
+Sphygmomanometer mercury
+5
+Baik
+
+B09
+CPR board
+5
+Baik
+
+B010
+Tongkat elbow
+6
+Pen light
+
+B011
+Tabung O2 lengkap
+5
+Baik
+
+B012
+Kursi
+5
+Baik
+
+B013
+Mitela
+5
+Baik
+
+B014
+Perban gulung
+5
+Baik
+
+B015
+Kassa steril
+5
+Baik
+
+B016
+Gunting medis
+5
+Baik
+
+B017
+Bidai
+5
+Baik
+
+B018
+Peniti
+5
+Baik
+
+B019
+Pinset
+5
+Baik

@@ -1,0 +1,30 @@
+12345
+3
+Asqina
+Kelas 12
+Perempuan
+19
+Demam
+Tue Jan 17 01:12:34 ICT 2023
+Tue Jan 17 01:13:52 ICT 2023
+
+12346
+4
+Diana
+Kelas 11
+Perempuan
+16
+Pusing
+Tue Jan 17 01:13:08 ICT 2023
+Tue Jan 17 01:32:59 ICT 2023
+
+98765
+6
+Sumarsih
+Guru
+Perempuan
+47
+Pusing
+Tue Jan 17 06:35:30 ICT 2023
+Tue Jan 17 06:36:07 ICT 2023
+
